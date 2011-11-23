@@ -2,8 +2,9 @@
  * This code is free software; you can redistribute it and/or modify it under
  * the terms of the new BSD License.
  *
- * Copyright (c) 2008-2009, Sebastian Staudt
+ * Copyright (c) 2008-2011, Sebastian Staudt
  */
+
 package com.github.koraktor.steamcondenser;
 
 import java.net.InetAddress;
@@ -21,7 +22,7 @@ import com.github.koraktor.steamcondenser.steam.servers.SourceServer;
 /**
  * @author  Sebastian Staudt
  */
-public class QueryTests {
+public class QueryTest {
 
     /**
      * This test tries to initialize an invalid GoldSrc server

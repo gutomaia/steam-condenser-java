@@ -14,7 +14,7 @@ import com.github.koraktor.steamcondenser.steam.community.tf2.TF2Stats;
 /**
  * @author Sebastian Staudt
  */
-public class SteamCommunityTests {
+public class SteamCommunityTest {
 
     @Test
     public void getGames() throws Exception {
